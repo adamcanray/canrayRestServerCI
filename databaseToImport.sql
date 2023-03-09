@@ -91,7 +91,7 @@ INSERT INTO `mahasiswa` (`id`, `nrp`, `nama`, `email`, `jurusan`) VALUES
 (34, '12313123', 'Idham Noor', 'idham123@gmail.com', 'Teknik Pangan'),
 (35, '123563214', 'Barj Lazwardi', 'barjlazz@gmail.com', 'Teknik Planologi'),
 (38, '778383493', 'Michael Handi', 'michaelhandi@gmail.com', 'Teknik Planologi'),
-(39, '12312322', 'Muhammad Adam Canrayneldy', 'adamcool180@gmail.com', 'Teknik Informatika');
+(39, '12312322', 'Muhammad Adam Canrayneldy', 'adam@gmail.com', 'Teknik Informatika');
 
 --
 -- Indexes for dumped tables
